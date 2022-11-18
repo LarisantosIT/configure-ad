@@ -27,6 +27,7 @@ The image below shows that I have selected Windows 10 as the operating system ru
 IMPORTANT: Do not forget the username or password you created as this will be used to login to your virtual machine
 
 
+
 Select "Review + Create" located at the bottom left corner and the "Create" on the next screen
 
 Now in the Virtual Machines window you should see your VM where it once said "No virtual machines to display" 
